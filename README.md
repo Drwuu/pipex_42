@@ -1,7 +1,7 @@
 **Pipex project school 42**
 
 <p align="center">
-  <img width="820" height="180" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Ftvaira.free.fr%2Fos%2Ftp-sys-tubes.pdf&psig=AOvVaw1z36Q4Oz0lzBEDtKE43_y0&ust=1635166941554000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD3uN6N4_MCFQAAAAAdAAAAABAD">
+  <img width="820" height="180" src="https://www.tutorialspoint.com/inter_process_communication/images/pipe_with_two.jpg">
 </p>
 
 Your objective is to code the Pipex program.
