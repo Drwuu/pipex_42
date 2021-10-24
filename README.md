@@ -17,7 +17,9 @@ The execution of the pipex program should do the same as the next shell command:
 $> < file1 cmd1 | cmd2 > file2
 </p>
 <p align="center">
-III.1 Examples
+<h2 align="center">
+Examples
+</h2>
 $> ./pipex infile ``ls -l'' ``wc -l'' outfile
 should be the same as “< infile ls -l | wc -l > outfile”
 $> ./pipex infile ``grep a1'' ``wc -w'' outfile
@@ -34,6 +36,9 @@ cannot fail, even in cases of nasty mistakes like wrong uses, etc.
 It means that if your mandatory part does not obtain ALL the points
 during the grading, your bonuses will be entirely IGNORED.
 </p>
+<h2 align="center">
+Examples
+</h2>
 <p align="center">
 • Handle multiple pipes :
 $> ./pipex file1 cmd1 cmd2 cmd3 ... cmdn file2
