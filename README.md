@@ -1,7 +1,7 @@
 **Pipex project school 42**
 
 <p align="center">
-  <img width="820" height="180" src="https://www.tutorialspoint.com/inter_process_communication/images/pipe_with_two.jpg">
+  <img src="https://www.tutorialspoint.com/inter_process_communication/images/pipe_with_two.jpg">
 </p>
 
 Your objective is to code the Pipex program.
