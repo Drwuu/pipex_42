@@ -4,7 +4,7 @@
   Pipex project school 42
 </h1>
 <p align="center">
-  <img src="https://www.tutorialspoint.com/inter_process_communication/images/pipe_with_two.jpg" style="width: 10%; height: 10%">
+  <img src="https://www.tutorialspoint.com/inter_process_communication/images/pipe_with_two.jpg" style="width: 30%; height: 30%">
 </p>
 
 <p align="center">
