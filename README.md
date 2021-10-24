@@ -16,10 +16,10 @@ their parameters.
 The execution of the pipex program should do the same as the next shell command:
 $> < file1 cmd1 | cmd2 > file2
 </p>
-<p align="center">
 <h2 align="center">
 Examples
 </h2>
+<p align="center">
 $> ./pipex infile ``ls -l'' ``wc -l'' outfile
 should be the same as “< infile ls -l | wc -l > outfile”
 $> ./pipex infile ``grep a1'' ``wc -w'' outfile
